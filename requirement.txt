@@ -1,0 +1,3 @@
+!pip install flask-ngrok
+!pip install flask joblib
+!pip install pyngrok
